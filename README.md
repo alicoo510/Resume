@@ -2,7 +2,8 @@
 ## Work I have Done to fullfill my academic requierments
 Sample website
 https://alicoo510.github.io/webcomm/a3web-1/index.html
-Peterborough Ward and Election map
+
+### Peterborough Ward and Election map
 April 2024
 
 ![image](https://github.com/alicoo510/Resume/assets/146375997/38d7d896-ce22-4b3e-a9ac-14246f797520)
