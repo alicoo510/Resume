@@ -1,1 +1,13 @@
-
+a:link, a:visited {
+  background-color: white;
+  color: IndianRed;
+  border: 4px solid IndianRed;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+/*taken from w3schools, https://www.w3schools.com/css/css_link.asp i wanted to have an active and a non active look to show when your curser is over the link */
+a:hover, a:active {
+  background-color: IndianRed;
+  color: white;
