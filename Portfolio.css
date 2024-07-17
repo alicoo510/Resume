@@ -8,8 +8,14 @@ h2{
 p {
   font-family: Tahoma, Verdana, sans-serif;
   }
-  .toptext{margin-left: 110px;
-  margin-right: 100px;}
+  body {background-color: rgb(75, 21, 21);}
+  .toptext{margin-left: 80px;
+  margin-right: 80px; margin-bottom: 20px;
+background-color: rgba(245, 245, 220, 0.884); 
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 5px;
+padding-bottom: 5px;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -53,7 +59,7 @@ p {
 /* Caption text */
 .text {
   font-family: Tahoma, Verdana, sans-serif;
-  background-color: rgba(245, 245, 220, 0.548);
+  background-color: rgba(245, 245, 220, 0.881);
   color: #000000;
   font-size: 15px;
   padding: 8px 12px;
@@ -66,7 +72,7 @@ p {
 /* Number text (1/3 etc) */
 .numbertext {
   font-family: Tahoma, Verdana, sans-serif;
-  color: #000000;
+  color: #ffffff;
   font-size: 12px;
   padding: 8px 12px;
   /* position: absolute; */
