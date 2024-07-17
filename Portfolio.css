@@ -12,7 +12,8 @@ p {
   body {background-color: rgb(255, 255, 255);}
   .toptext{
     /* margin-left: 80px; */
-  /* margin-right: 80px; margin-bottom: 20px; */
+  /* margin-right: 80px; */
+  margin-top: 20px; 
 background-color: rgba(150, 125, 170, 0.799); 
 padding-left: 100px;
 padding-right: 100px;
