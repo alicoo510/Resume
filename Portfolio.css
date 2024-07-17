@@ -1,4 +1,5 @@
-* {box-sizing:border-box}
+* {box-sizing:border-box; 
+}
 h1{
   font-family: Tahoma, Verdana, sans-serif;
   }
@@ -8,10 +9,11 @@ h2{
 p {
   font-family: Tahoma, Verdana, sans-serif;
   }
-  body {background-color: rgb(75, 21, 21);}
-  .toptext{margin-left: 80px;
-  margin-right: 80px; margin-bottom: 20px;
-background-color: rgba(245, 245, 220, 0.884); 
+  body {background-color: rgb(255, 255, 255);}
+  .toptext{
+    /* margin-left: 80px; */
+  /* margin-right: 80px; margin-bottom: 20px; */
+background-color: rgba(150, 125, 170, 0.799); 
 padding-left: 100px;
 padding-right: 100px;
 padding-top: 5px;
@@ -42,7 +44,7 @@ padding-bottom: 5px;}
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
-  background-color: #611e1e77;
+  background-color: rgba(150, 125, 170, 0.315);
 }
 
 /* Position the "next button" to the right */
@@ -53,13 +55,13 @@ padding-bottom: 5px;}
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: #611e1e;
+  background-color: rgb(150, 125, 170);
 }
 
 /* Caption text */
 .text {
   font-family: Tahoma, Verdana, sans-serif;
-  background-color: rgba(245, 245, 220, 0.881);
+  background-color: rgba(150, 125, 170, 0.189);
   color: #000000;
   font-size: 15px;
   padding: 8px 12px;
@@ -72,7 +74,7 @@ padding-bottom: 5px;}
 /* Number text (1/3 etc) */
 .numbertext {
   font-family: Tahoma, Verdana, sans-serif;
-  color: #ffffff;
+  color: #000000;
   font-size: 12px;
   padding: 8px 12px;
   /* position: absolute; */
@@ -85,7 +87,7 @@ padding-bottom: 5px;}
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #611e1e;
+  background-color: rgba(150, 125, 170, 0.674);
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
